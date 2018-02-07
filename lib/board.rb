@@ -2,4 +2,4 @@
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-puts board.leng
+puts board.
